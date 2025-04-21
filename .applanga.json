@@ -14,7 +14,7 @@
     "pull": {
       "target": [
         {
-          "path": "./react_json_sample/en/<language>.json",
+          "path": "./react_json_sample/<language>/translations.json",
           "file_format": "react_simple_json",
           "tag": "app:language.json",
           "exclude_languages": [
